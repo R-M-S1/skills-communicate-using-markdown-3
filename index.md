@@ -8,4 +8,9 @@
 ``` javascript
 var myVar = "Green Hamburger"
 ```
+
+- [x] Make hamburger
+- [x] Place cheese
+- [x] Make buns green
+
 Changed file to include vital information using H1 header.
